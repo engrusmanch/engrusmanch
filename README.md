@@ -21,10 +21,6 @@ Hey there! I'm Muhammad Usman, a passionate Flutter developer with nearly 2 year
 
 💬 Have any questions about Flutter development, or just want to chat about tech? Feel free to reach out to me via [email](mailto:engr.usmanch26@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-usman-57564a22b/).
 
-## Fun Fact
-
-⚡ Fun fact: I believe in the power of community-driven learning and often participate in hackathons and developer meetups to exchange ideas and learn from fellow enthusiasts.
-
 ## Pronouns
 
 😄 Pronouns: He/Him
